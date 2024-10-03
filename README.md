@@ -5,18 +5,6 @@
 
 ---
 
-<h3>🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/anas sf" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anas sf" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/anas sf" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anas sf" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/mc_sll" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mc_sll" height="30" width="40" />
-  </a>
-</p>
 
 ---
 
