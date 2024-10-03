@@ -3,10 +3,6 @@
 
 <img align="right" alt="coding" width="330" src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif" />
 
----
-
-
----
 
 <h3>📧 Contact me:</h3>
 <p align="left" style="font-weight: bold; background-color: #f5f5f5; padding: 10px; border-radius: 5px; border: 2px solid gray; width: fit-content;">
