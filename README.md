@@ -9,10 +9,4 @@
   anaskalkhi123@gmail.com
 </p>
 
----
-
-
-
----
-
 <h4 align="center" style="font-weight: bold; color: #34495e;">"Building the future, one line of code at a time"</h4>
