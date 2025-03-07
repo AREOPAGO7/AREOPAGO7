@@ -29,6 +29,6 @@ jobs:
       - name: Push to GitHub
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: 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  # Uses your new PAT token
+          personal_token: ${{ secrets.GH_PAT }}  # Uses your new PAT token
           publish_branch: output
           publish_dir: ./dist
