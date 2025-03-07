@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anass" height="30" width="30" onclick="window.open('https://www.facebook.com/profile.php?id=100093637553469', '_blank')" />
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anass" height="30" width="30" onclick="window.open('https://www.instagram.com/mc_sll/', '_blank')" />
 </p>
-<img align="right" alt="coding" width="300" src="https://res.cloudinary.com/dl2eb7wer/image/upload/v1741314882/dsqrbjyfcrvlpbllpjp6.svg" />
+<img align="right" alt="coding" width="800" src="https://res.cloudinary.com/dl2eb7wer/image/upload/v1741314882/dsqrbjyfcrvlpbllpjp6.svg" />
 
 
 
