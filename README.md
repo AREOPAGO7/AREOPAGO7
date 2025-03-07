@@ -10,4 +10,4 @@
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif" />
 
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![GitHub Snake Animation](https://github.com/AREOPAGO7/AREOPAGO7/blob/output/github-contribution-grid-snake.svg)
