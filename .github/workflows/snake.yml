@@ -9,6 +9,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
       - name: Generate Snake Animation
         uses: Platane/snk@master
         with:
@@ -18,7 +21,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Upload Snake Animation
-        uses: actions/upload-artifact@v4  # Updated to v4
+        uses: actions/upload-artifact@v4
         with:
           name: snake
           path: dist
@@ -26,6 +29,6 @@ jobs:
       - name: Push to GitHub
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: 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  # Uses your new PAT token
           publish_branch: output
           publish_dir: ./dist
