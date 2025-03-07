@@ -9,5 +9,6 @@
 </p>
 <!-- <img align="right" alt="coding" width="300" src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif" />
  -->
-![Snake animation](https://raw.githubusercontent.com/AREOPAGO7/AREOPAGO7/output/github-snake.svg)
+![GIF](https://raw.githubusercontent.com/AREOPAGO7/AREOPAGO7/output/github-snake.svg)
+
 
