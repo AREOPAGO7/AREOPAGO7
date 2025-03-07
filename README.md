@@ -10,4 +10,4 @@
 <!-- <img align="right" alt="coding" width="300" src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif" />
  -->
 
-![GitHub Snake Animation](https://github.com/AREOPAGO7/AREOPAGO7/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/<seu AREOPAGO7>/<seu AREOPAGO7>/blob/output/github-contribution-grid-snake2.svg)
