@@ -15,20 +15,18 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@master
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          github_user_name: ${{ github.repository_owner }}  # Correct input
+          svg_out_path: dist/github-contribution-grid-snake.svg  # Correct output path
 
       - name: Upload Snake Animation
         uses: actions/upload-artifact@v4
         with:
           name: snake
-          path: dist
+          path: dist/github-contribution-grid-snake.svg
 
       - name: Push to GitHub
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.GH_PAT }}  # Uses your new PAT token
+          personal_token: ${{ secrets.GH_PAT }}  # Uses your PAT token
           publish_branch: output
           publish_dir: ./dist
