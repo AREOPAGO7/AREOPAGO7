@@ -9,4 +9,4 @@
 </p>
 <!-- <img align="right" alt="coding" width="300" src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif" />
  -->
-![Snake animation](https://github.com/AREOPAGO7/AREOPAGO7/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/AREOPAGO7/AREOPAGO7/blob/output/github-snake-dark.svg)
